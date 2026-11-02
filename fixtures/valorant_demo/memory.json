@@ -1,0 +1,421 @@
+{
+ "video": {
+  "id": "valorant-demo",
+  "title": "Valorant — 1v5 Clutch Round (fictional demo)",
+  "duration_s": 360,
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "source": "fixtures/valorant_demo/stream.mp4 (fictional, scripted)",
+  "game": "Valorant"
+ },
+ "entities": [
+  {
+   "name": "Streamer",
+   "aliases": [
+    "the streamer"
+   ],
+   "kind": "streamer"
+  }
+ ],
+ "records": [
+  {
+   "t_start": 0,
+   "t_end": 60,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Streamer"
+   ],
+   "text": "Streamer queues into a ranked match on Ascent",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Lobby",
+   "activity": "queue",
+   "caption": "Streamer queues into a ranked match on Ascent"
+  },
+  {
+   "t_start": 60,
+   "t_end": 60,
+   "modality": "game",
+   "type": "round_start",
+   "entities": [],
+   "text": "Round 12 starts on Ascent",
+   "confidence": 0.95,
+   "payload": {
+    "round": 12
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 60,
+   "t_end": 270,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Streamer"
+   ],
+   "text": "Round 12 on Ascent: streamer's team attacks A site and the round collapses to a 1v5 clutch attempt",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Ascent A Site",
+   "activity": "round_in_progress",
+   "caption": "Round 12 on Ascent: streamer's team attacks A site and the round collapses to a 1v5 clutch attempt"
+  },
+  {
+   "t_start": 75,
+   "t_end": 82,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Streamer"
+   ],
+   "text": "Okay, A site, play slow, use my dash late.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Streamer"
+  },
+  {
+   "t_start": 85,
+   "t_end": 85,
+   "modality": "game",
+   "type": "alive_count_change",
+   "entities": [],
+   "text": "Teammate down: 4v5",
+   "confidence": 0.95,
+   "payload": {
+    "allies_alive": 4,
+    "enemies_alive": 5
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 100,
+   "t_end": 100,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "team is throwinggg",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "aim_god_fan",
+   "emotes": []
+  },
+  {
+   "t_start": 110,
+   "t_end": 110,
+   "modality": "game",
+   "type": "alive_count_change",
+   "entities": [],
+   "text": "Teammate down: 3v5",
+   "confidence": 0.95,
+   "payload": {
+    "allies_alive": 3,
+    "enemies_alive": 5
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 132,
+   "t_end": 132,
+   "modality": "game",
+   "type": "alive_count_change",
+   "entities": [],
+   "text": "Teammate down: 2v5",
+   "confidence": 0.95,
+   "payload": {
+    "allies_alive": 2,
+    "enemies_alive": 5
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 150,
+   "t_end": 150,
+   "modality": "game",
+   "type": "alive_count_change",
+   "entities": [],
+   "text": "Streamer is last alive: 1v5 clutch situation",
+   "confidence": 0.95,
+   "payload": {
+    "allies_alive": 1,
+    "enemies_alive": 5
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 152,
+   "t_end": 152,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "1v5?? its over",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "valofan",
+   "emotes": []
+  },
+  {
+   "t_start": 155,
+   "t_end": 163,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Streamer"
+   ],
+   "text": "I'm last alive, it's a 1v5, I have to clutch this. Quiet, chat.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Streamer"
+  },
+  {
+   "t_start": 165,
+   "t_end": 165,
+   "modality": "game",
+   "type": "kill",
+   "entities": [],
+   "text": "Streamer kills enemy Reyna (headshot)",
+   "confidence": 0.95,
+   "payload": {
+    "actor_side": "allies",
+    "victim": "Reyna"
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 167,
+   "t_end": 167,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "ONE DOWN",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "valofan",
+   "emotes": []
+  },
+  {
+   "t_start": 185,
+   "t_end": 185,
+   "modality": "game",
+   "type": "kill",
+   "entities": [],
+   "text": "Streamer kills enemy Sova",
+   "confidence": 0.95,
+   "payload": {
+    "actor_side": "allies",
+    "victim": "Sova"
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 190,
+   "t_end": 190,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "TWO?? streamer is locked in",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "aim_god_fan",
+   "emotes": []
+  },
+  {
+   "t_start": 205,
+   "t_end": 205,
+   "modality": "game",
+   "type": "kill",
+   "entities": [],
+   "text": "Streamer kills enemy Killjoy",
+   "confidence": 0.95,
+   "payload": {
+    "actor_side": "allies",
+    "victim": "Killjoy"
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 210,
+   "t_end": 210,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "three down, this is actually happening",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mod_mara",
+   "emotes": []
+  },
+  {
+   "t_start": 230,
+   "t_end": 230,
+   "modality": "game",
+   "type": "kill",
+   "entities": [],
+   "text": "Streamer kills enemy Sage",
+   "confidence": 0.95,
+   "payload": {
+    "actor_side": "allies",
+    "victim": "Sage"
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 235,
+   "t_end": 235,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "FOUR",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "valofan",
+   "emotes": []
+  },
+  {
+   "t_start": 255,
+   "t_end": 255,
+   "modality": "game",
+   "type": "kill",
+   "entities": [],
+   "text": "Streamer kills enemy Jett — all five down",
+   "confidence": 0.95,
+   "payload": {
+    "actor_side": "allies",
+    "victim": "Jett"
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 258,
+   "t_end": 258,
+   "modality": "game",
+   "type": "alive_count_change",
+   "entities": [],
+   "text": "No enemies remain: 1v0",
+   "confidence": 0.95,
+   "payload": {
+    "allies_alive": 1,
+    "enemies_alive": 0
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 258,
+   "t_end": 258,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "ALL FIVE, 1v5 CLUTCH",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "aim_god_fan",
+   "emotes": []
+  },
+  {
+   "t_start": 262,
+   "t_end": 270,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Streamer"
+   ],
+   "text": "LET'S GO! 1v5 clutch, defused with no time left!",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Streamer"
+  },
+  {
+   "t_start": 270,
+   "t_end": 270,
+   "modality": "game",
+   "type": "round_end",
+   "entities": [],
+   "text": "Round 12 won by streamer's team",
+   "confidence": 0.95,
+   "payload": {
+    "result": "win",
+    "side": "allies",
+    "round": 12
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 270,
+   "t_end": 360,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Streamer"
+   ],
+   "text": "Streamer celebrates the 1v5 clutch round win with chat",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Ascent A Site",
+   "activity": "celebration",
+   "caption": "Streamer celebrates the 1v5 clutch round win with chat"
+  },
+  {
+   "t_start": 272,
+   "t_end": 272,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "CLIPPED. best round of the stream",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mod_mara",
+   "emotes": []
+  },
+  {
+   "t_start": 280,
+   "t_end": 280,
+   "modality": "event",
+   "type": "sub",
+   "entities": [],
+   "text": "new sub from clutch_fan (Tier 1)",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 285,
+   "t_end": 285,
+   "modality": "event",
+   "type": "clip_created",
+   "entities": [],
+   "text": "clip created by a viewer: 'the 1v5 clutch'",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  }
+ ],
+ "tracks": [
+  {
+   "track_id": 1,
+   "label": "player",
+   "first_t": 60,
+   "last_t": 360,
+   "zones_visited": [
+    "Ascent A Site",
+    "Ascent A Main"
+   ],
+   "entity": "Streamer",
+   "payload": {}
+  }
+ ]
+}

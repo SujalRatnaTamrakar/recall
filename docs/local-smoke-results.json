@@ -1,0 +1,407 @@
+{
+  "kind": "synthetic-local-provider-test",
+  "external_python_connections": "blocked",
+  "samples": [
+    {
+      "playback_s": 0.689799,
+      "through_s": 0,
+      "lag_s": 0.689799,
+      "state": "playing"
+    },
+    {
+      "playback_s": 1.688945,
+      "through_s": 0,
+      "lag_s": 1.688945,
+      "state": "playing"
+    },
+    {
+      "playback_s": 2.690886,
+      "through_s": 0,
+      "lag_s": 2.690886,
+      "state": "playing"
+    },
+    {
+      "playback_s": 3.688636,
+      "through_s": 0,
+      "lag_s": 3.688636,
+      "state": "playing"
+    },
+    {
+      "playback_s": 4.687037,
+      "through_s": 0,
+      "lag_s": 4.687037,
+      "state": "playing"
+    },
+    {
+      "playback_s": 5.685981,
+      "through_s": 0,
+      "lag_s": 5.685981,
+      "state": "playing"
+    },
+    {
+      "playback_s": 6.683948,
+      "through_s": 0,
+      "lag_s": 6.683948,
+      "state": "playing"
+    },
+    {
+      "playback_s": 7.682415,
+      "through_s": 0,
+      "lag_s": 7.682415,
+      "state": "playing"
+    },
+    {
+      "playback_s": 8.681109,
+      "through_s": 0,
+      "lag_s": 8.681109,
+      "state": "playing"
+    },
+    {
+      "playback_s": 9.680056,
+      "through_s": 0,
+      "lag_s": 9.680056,
+      "state": "playing"
+    },
+    {
+      "playback_s": 10.67809,
+      "through_s": 0,
+      "lag_s": 10.67809,
+      "state": "playing"
+    },
+    {
+      "playback_s": 11.676455,
+      "through_s": 0,
+      "lag_s": 11.676455,
+      "state": "playing"
+    },
+    {
+      "playback_s": 12.674954,
+      "through_s": 0,
+      "lag_s": 12.674954,
+      "state": "playing"
+    },
+    {
+      "playback_s": 13.673743,
+      "through_s": 0,
+      "lag_s": 13.673743,
+      "state": "playing"
+    },
+    {
+      "playback_s": 14.671728,
+      "through_s": 0,
+      "lag_s": 14.671728,
+      "state": "playing"
+    },
+    {
+      "playback_s": 15.690345,
+      "through_s": 0,
+      "lag_s": 15.690345,
+      "state": "playing"
+    },
+    {
+      "playback_s": 16.688826,
+      "through_s": 0,
+      "lag_s": 16.688826,
+      "state": "playing"
+    },
+    {
+      "playback_s": 17.690736,
+      "through_s": 0,
+      "lag_s": 17.690736,
+      "state": "playing"
+    },
+    {
+      "playback_s": 18.688787,
+      "through_s": 5.174534,
+      "lag_s": 13.514253,
+      "state": "playing"
+    },
+    {
+      "playback_s": 19.687602,
+      "through_s": 5.174534,
+      "lag_s": 14.513067999999997,
+      "state": "playing"
+    },
+    {
+      "playback_s": 20.685973,
+      "through_s": 5.174534,
+      "lag_s": 15.511439,
+      "state": "playing"
+    },
+    {
+      "playback_s": 21.684291,
+      "through_s": 10,
+      "lag_s": 11.684291000000002,
+      "state": "playing"
+    },
+    {
+      "playback_s": 22.682451,
+      "through_s": 10,
+      "lag_s": 12.682451,
+      "state": "playing"
+    },
+    {
+      "playback_s": 23.68144,
+      "through_s": 10,
+      "lag_s": 13.681439999999998,
+      "state": "playing"
+    },
+    {
+      "playback_s": 24.679709,
+      "through_s": 10,
+      "lag_s": 14.679708999999999,
+      "state": "playing"
+    },
+    {
+      "playback_s": 25.678563,
+      "through_s": 10,
+      "lag_s": 15.678563,
+      "state": "playing"
+    },
+    {
+      "playback_s": 26.67666,
+      "through_s": 10,
+      "lag_s": 16.67666,
+      "state": "playing"
+    },
+    {
+      "playback_s": 27.675728,
+      "through_s": 15.18231,
+      "lag_s": 12.493418,
+      "state": "playing"
+    },
+    {
+      "playback_s": 28.673532,
+      "through_s": 15.18231,
+      "lag_s": 13.491222000000002,
+      "state": "playing"
+    },
+    {
+      "playback_s": 29.672139,
+      "through_s": 15.18231,
+      "lag_s": 14.489829000000002,
+      "state": "playing"
+    },
+    {
+      "playback_s": 30.690694,
+      "through_s": 20,
+      "lag_s": 10.690694,
+      "state": "playing"
+    },
+    {
+      "playback_s": 31.689202,
+      "through_s": 20,
+      "lag_s": 11.689202000000002,
+      "state": "playing"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 20,
+      "lag_s": 12.046484,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 20,
+      "lag_s": 12.046484,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 20,
+      "lag_s": 12.046484,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 20,
+      "lag_s": 12.046484,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 25.190191,
+      "lag_s": 6.856293000000001,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 25.190191,
+      "lag_s": 6.856293000000001,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 25.190191,
+      "lag_s": 6.856293000000001,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 30,
+      "lag_s": 2.0464839999999995,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 30.182452,
+      "lag_s": 1.8640319999999981,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 30.182452,
+      "lag_s": 1.8640319999999981,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 30.182452,
+      "lag_s": 1.8640319999999981,
+      "state": "ended"
+    },
+    {
+      "playback_s": 32.046484,
+      "through_s": 32.046484,
+      "lag_s": 0,
+      "state": "ended"
+    }
+  ],
+  "records": 15,
+  "frames": 8,
+  "max_lag_s": 17.690736,
+  "questions": [
+    {
+      "question": "When was a green circle visible?",
+      "seconds": 4.616769500000002,
+      "answer": {
+        "summary": "Generated visual description [0:20]: \"Dark blue background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'TWO COLUMNS'. Green circle on right. Bottom text: 'STAGE 3 / local AI smoke test / not a real stream'.\"\nGenerated visual description [0:25]: \"Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'.\"\nGenerated visual description [0:30]: \"Purple background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT'. Green circle on right. Bottom text: 'STAGE 4 / local AI smoke test / not a real stream'.\"\nGenerated visual description [0:32]: \"Purple background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT'. Green circle on right. Bottom text: 'STAGE 4 / local AI smoke test / not a real stream'.\"",
+        "query_type": "SEARCH_MOMENT",
+        "confidence": 1,
+        "source_label": "EXTRACTIVE",
+        "run_id": "b11dd2d79a4b46478752d5809d6ad0dc",
+        "through_s": 32.046484,
+        "status": "answered",
+        "citations": [
+          {
+            "t": 20.174957,
+            "mmss": "0:20",
+            "label": "Dark blue background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS",
+            "t_end": 20.174957,
+            "evidence_id": "ev_c935faf20c2d46103ee4",
+            "source_type": "observed",
+            "excerpt": "Dark blue background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'TWO COLUMNS'. Green circle on right. Bottom text: 'STAGE 3 / local AI smoke test / not a real stream'.",
+            "frame_url": "/frames/b11dd2d79a4b46478752d5809d6ad0dc-000020174"
+          },
+          {
+            "t": 25.190191,
+            "mmss": "0:25",
+            "label": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW ",
+            "t_end": 25.190191,
+            "evidence_id": "ev_57d689a2a887a6ed6ce6",
+            "source_type": "observed",
+            "excerpt": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'.",
+            "frame_url": "/frames/b11dd2d79a4b46478752d5809d6ad0dc-000025190"
+          },
+          {
+            "t": 30.182452,
+            "mmss": "0:30",
+            "label": "Purple background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', ",
+            "t_end": 30.182452,
+            "evidence_id": "ev_42c8d7e70fc0f8757ba0",
+            "source_type": "observed",
+            "excerpt": "Purple background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT'. Green circle on right. Bottom text: 'STAGE 4 / local AI smoke test / not a real stream'.",
+            "frame_url": "/frames/b11dd2d79a4b46478752d5809d6ad0dc-000030182"
+          },
+          {
+            "t": 32.046484,
+            "mmss": "0:32",
+            "label": "Purple background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', ",
+            "t_end": 32.046484,
+            "evidence_id": "ev_9664a8bed0db1dddbabd",
+            "source_type": "observed",
+            "excerpt": "Purple background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT'. Green circle on right. Bottom text: 'STAGE 4 / local AI smoke test / not a real stream'.",
+            "frame_url": "/frames/b11dd2d79a4b46478752d5809d6ad0dc-000032046"
+          }
+        ],
+        "tool_trace": [
+          "as_of(32.05)",
+          "local_fts5 -> 6 candidates",
+          "local_model -> evidence selection; deterministic source excerpts"
+        ],
+        "clips": []
+      }
+    },
+    {
+      "question": "What did they say they would do next?",
+      "seconds": 0.010687300000005052,
+      "answer": {
+        "summary": "STATED plan: unknown said at 0:20: \"Next I will add captions to this design.\" — the latest recorded plan statement; it may since have changed.",
+        "query_type": "STATED_PLAN",
+        "confidence": 1,
+        "source_label": "STATED",
+        "run_id": "b11dd2d79a4b46478752d5809d6ad0dc",
+        "through_s": 32.046484,
+        "status": "answered",
+        "citations": [
+          {
+            "t": 20,
+            "mmss": "0:20",
+            "label": "unknown: \"Next I will add captions to this design.\"",
+            "t_end": 26.23,
+            "evidence_id": "ev_e02c5153635130bb3744",
+            "source_type": "spoken",
+            "excerpt": "unknown: \"Next I will add captions to this design.\"",
+            "frame_url": null
+          }
+        ],
+        "tool_trace": [
+          "classify -> STATED_PLAN/NEXT",
+          "find_stated_plans(after=0:00) -> 1 plan statements"
+        ],
+        "clips": [
+          {
+            "t_start": 15,
+            "t_end": 26.23,
+            "label": "unknown: \"Next I will add captions to this design.\""
+          }
+        ]
+      }
+    },
+    {
+      "question": "Why did they choose a green circle?",
+      "seconds": 0.006676800000001095,
+      "answer": {
+        "summary": "No explicitly stated reason is available in the retrieved evidence.",
+        "query_type": "STATED_REASON",
+        "confidence": 1,
+        "source_label": null,
+        "run_id": "b11dd2d79a4b46478752d5809d6ad0dc",
+        "through_s": 32.046484,
+        "status": "insufficient_evidence",
+        "citations": [],
+        "tool_trace": [],
+        "clips": []
+      }
+    },
+    {
+      "question": "What is the capital of France?",
+      "seconds": 0.006468399999997928,
+      "answer": {
+        "summary": "No matching completed evidence is available.",
+        "query_type": "EVIDENCE_QA",
+        "confidence": 1,
+        "source_label": null,
+        "run_id": "b11dd2d79a4b46478752d5809d6ad0dc",
+        "through_s": 32.046484,
+        "status": "insufficient_evidence",
+        "citations": [],
+        "tool_trace": [],
+        "clips": []
+      }
+    }
+  ],
+  "passed": true,
+  "browser_errors": [],
+  "final_processing_lag_s": 0
+}

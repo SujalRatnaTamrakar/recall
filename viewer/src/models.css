@@ -1,0 +1,7 @@
+.model-settings select { min-width:0; max-width:100%; flex:1; background:#10131b; color:#e8ebf1; border:1px solid #515865; border-radius:6px; padding:12px; font:inherit; font-size:16px; }
+.model-settings label { display:block; margin-top:18px; font-weight:500; }
+.model-settings #modelFeedback { color:#bedf9d; overflow-wrap:anywhere; }
+.model-settings #modelHelp { max-width:90ch; }
+.model-settings .diagnostics-actions { margin-top:10px; }
+.model-settings select:focus-visible { outline:2px solid #b8f76c; outline-offset:3px; }
+@media(max-width:700px) { .model-settings select { flex-basis:100%; width:100%; } }

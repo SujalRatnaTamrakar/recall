@@ -1,0 +1,17 @@
+{
+ "id": "narration",
+ "title": "narration",
+ "source": "examples/narration/narration.mp4",
+ "status": "ready",
+ "duration_s": 63.72,
+ "fps": 30.0,
+ "width": 640,
+ "height": 360,
+ "has_audio": true,
+ "thumbnails": 6,
+ "thumb_every_s": 10,
+ "transcript_provider": "faster-whisper",
+ "notices": [
+  "faster-whisper: transcribed with model 'tiny'."
+ ]
+}

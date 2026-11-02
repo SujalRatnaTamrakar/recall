@@ -1,0 +1,14 @@
+.stream-context .context-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:16px 0}
+.stream-context label{display:grid;gap:8px;font-size:16px;color:var(--text,#eee)}
+.stream-context input:not([type=checkbox]),.stream-context select,.stream-context textarea{width:100%;min-width:0;padding:12px;border:1px solid #48494e;border-radius:8px;background:#17181c;color:#f5f5f7;font:inherit;font-size:16px}
+.stream-context .context-wide{grid-column:1/-1}
+.stream-context textarea{resize:vertical}
+.stream-context fieldset{border:0;padding:0;margin:0;min-width:0}
+.context-person{display:grid;grid-template-columns:1fr 1fr 1.5fr auto;gap:12px;align-items:end;margin:14px 0}
+.context-switches{display:grid;gap:14px;margin:24px 0}
+.context-switches label{display:flex;align-items:center;gap:12px}.context-switches input{width:18px;height:18px}
+.context-event{display:grid;gap:7px;border-left:2px solid #b898ff;padding:10px 16px;background:#ffffff04}
+.context-event strong{font-size:14px;color:#c7b9e7}.context-event span{font-size:16px}
+.context-source{border-top:1px solid #ffffff14;padding:12px 0;overflow-wrap:anywhere}.context-source p{font-size:15px;line-height:1.6;margin:8px 0}
+.context-source small{color:#9594a0}.answer-context>p{padding:0 8px;font-size:14px;line-height:1.6}
+@media(max-width:760px){.stream-context .context-fields,.context-person{grid-template-columns:1fr}.context-person{border-bottom:1px solid #ffffff20;padding-bottom:16px}.stream-context summary small{display:block;margin:6px 0}}

@@ -1,0 +1,367 @@
+{
+ "run_id": "e256f923c6b74ae5b5573c748de31fde",
+ "through_s": 32.046484,
+ "video": {
+  "id": "synthetic-local-demo",
+  "title": "Synthetic local test \u2014 automatically processed",
+  "duration_s": 32.046484,
+  "fps": 10.0,
+  "width": 960,
+  "height": 540,
+  "source": "C:\\Users\\sujal\\Documents\\Codex\\2026-10-28\\new-chat\\outputs\\tube-live\\examples\\local-smoke\\synthetic-demo.mp4",
+  "game": ""
+ },
+ "entities": [],
+ "records": [
+  {
+   "t_start": 0,
+   "t_end": 0,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Dark blue screen with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW OFF', 'ONE COLUMN', 'STAGE 1 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 0,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000000000",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000000000",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW OFF",
+     "ONE COLUMN"
+    ],
+    "objects": []
+   },
+   "kind": "scene",
+   "evidence_id": "ev_08fedd633786350f4ebb",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Dark blue screen with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW OFF', 'ONE COLUMN', 'STAGE 1 / local AI smoke test / not a real stream'."
+  },
+  {
+   "t_start": 0.0,
+   "t_end": 2.6,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "This is a synthetic local test.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "faster-whisper-small-cpu-int8",
+    "window_end": 10.0
+   },
+   "kind": "transcript",
+   "evidence_id": "ev_32e59580ba34bb3c292b",
+   "source_type": "spoken",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 2.6,
+   "t_end": 8.06,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "The first preview is off.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "faster-whisper-small-cpu-int8",
+    "window_end": 10.0
+   },
+   "kind": "transcript",
+   "evidence_id": "ev_f4d8268456781cd82b52",
+   "source_type": "spoken",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 5.0,
+   "t_end": 5.0,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Dark blue screen with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW OFF', 'ONE COLUMN', 'STAGE 1 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 5.0,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000005000",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000005000",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW OFF",
+     "ONE COLUMN"
+    ],
+    "objects": [
+     "text"
+    ]
+   },
+   "kind": "scene",
+   "evidence_id": "ev_0b1f21572b09550f28de",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Dark blue screen with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW OFF', 'ONE COLUMN', 'STAGE 1 / local AI smoke test / not a real stream'."
+  },
+  {
+   "t_start": 8.06,
+   "t_end": 10.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "I enabled the preview because the first...",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "faster-whisper-small-cpu-int8",
+    "window_end": 10.0
+   },
+   "kind": "transcript",
+   "evidence_id": "ev_f7b673d99fc2d566813d",
+   "source_type": "spoken",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 10.0,
+   "t_end": 10.0,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Brown background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW ON ONE COLUMN', 'STAGE 2 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 10.0,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000010000",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000010000",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW ON ONE COLUMN",
+     "STAGE 2 / local AI smoke test / not a real stream"
+    ],
+    "objects": [
+     "text"
+    ]
+   },
+   "kind": "scene",
+   "evidence_id": "ev_5d89b5c2233584eb81b8",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Brown background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW ON ONE COLUMN', 'STAGE 2 / local AI smoke test / not a real stream'."
+  },
+  {
+   "t_start": 10.0,
+   "t_end": 16.28,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "attempt was blank.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "faster-whisper-small-cpu-int8",
+    "window_end": 20.0
+   },
+   "kind": "transcript",
+   "evidence_id": "ev_a3e7499e18d9e8a73a11",
+   "source_type": "spoken",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 15.0,
+   "t_end": 15.0,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Brown background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW ON ONE COLUMN', 'STAGE 2 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 15.0,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000015000",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000015000",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW ON ONE COLUMN",
+     "STAGE 2 / local AI smoke test / not a real stream"
+    ],
+    "objects": [
+     "text"
+    ]
+   },
+   "kind": "scene",
+   "evidence_id": "ev_c44d377fdea7fc073c3d",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Brown background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW ON ONE COLUMN', 'STAGE 2 / local AI smoke test / not a real stream'."
+  },
+  {
+   "t_start": 16.28,
+   "t_end": 18.52,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "The preview now works.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "faster-whisper-small-cpu-int8",
+    "window_end": 20.0
+   },
+   "kind": "transcript",
+   "evidence_id": "ev_0b8d662e72098187414a",
+   "source_type": "spoken",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 18.52,
+   "t_end": 20.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Look at the screen for a visual change.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "faster-whisper-small-cpu-int8",
+    "window_end": 20.0
+   },
+   "kind": "transcript",
+   "evidence_id": "ev_686182bac93a7d8c3934",
+   "source_type": "spoken",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 20.0,
+   "t_end": 20.0,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Dark blue background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'TWO COLUMNS'. Green circle on right. Bottom text: 'STAGE 3 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 20.0,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000020000",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000020000",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW WORKS",
+     "TWO COLUMNS"
+    ],
+    "objects": []
+   },
+   "kind": "scene",
+   "evidence_id": "ev_d1a229f1f5d570dbaabd",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Dark blue background with white text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'TWO COLUMNS'. Green circle on right. Bottom text: 'STAGE 3 / local AI smoke test / not a real stream'."
+  },
+  {
+   "t_start": 20.0,
+   "t_end": 26.23,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Next I will add captions to this design.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "faster-whisper-small-cpu-int8",
+    "window_end": 30.0
+   },
+   "kind": "transcript",
+   "evidence_id": "ev_16baae027406fee2ed25",
+   "source_type": "spoken",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 25.0,
+   "t_end": 25.0,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 25.0,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000025000",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000025000",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW WORKS",
+     "CAPTIONS NEXT"
+    ],
+    "objects": []
+   },
+   "kind": "scene",
+   "evidence_id": "ev_b5f1041f5cda7dfcedb5",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'."
+  },
+  {
+   "t_start": 30.0,
+   "t_end": 30.0,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 30.0,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000030000",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000030000",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW WORKS",
+     "CAPTIONS NEXT"
+    ],
+    "objects": []
+   },
+   "kind": "scene",
+   "evidence_id": "ev_2df37b1b5f13efbe0a0a",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'."
+  },
+  {
+   "t_start": 31.996484,
+   "t_end": 31.996484,
+   "modality": "video",
+   "type": "scene",
+   "entities": [],
+   "text": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'.",
+   "confidence": 1.0,
+   "payload": {
+    "provider": "local-qwen-vision",
+    "window_end": 31.996484,
+    "frame_id": "e256f923c6b74ae5b5573c748de31fde-000031996",
+    "frame_url": "/frames/e256f923c6b74ae5b5573c748de31fde-000031996",
+    "topics": [],
+    "visible_text": [
+     "TUBE LIVE / SYNTHETIC TEST FOOTAGE",
+     "PREVIEW WORKS",
+     "CAPTIONS NEXT"
+    ],
+    "objects": []
+   },
+   "kind": "scene",
+   "evidence_id": "ev_952608469555879de580",
+   "source_type": "observed",
+   "location": "",
+   "activity": "visual_observation",
+   "caption": "Purple background with green circle. Text: 'TUBE LIVE / SYNTHETIC TEST FOOTAGE', 'PREVIEW WORKS', 'CAPTIONS NEXT', 'STAGE 4 / local AI smoke test / not a real stream'."
+  }
+ ],
+ "tracks": []
+}

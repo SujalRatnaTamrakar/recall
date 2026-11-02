@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tubelive"
+version = "0.2.0"
+description = "Recall: local stream memory, evidence-backed questions, an interactive time cube, and shared Twitch chat."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+local = ["faster-whisper==1.2.1", "av==14.2.0", "huggingface-hub>=0.26.5,<1", "websocket-client>=1.8,<2", "onnxruntime>=1.19,<2", "tokenizers>=0.20,<1", "numpy>=1.26,<3"]
+test = ["pytest>=8,<10", "pillow>=11,<13"]
+
+[project.scripts]
+recall = "tubelive.cli:main"
+tubelive = "tubelive.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

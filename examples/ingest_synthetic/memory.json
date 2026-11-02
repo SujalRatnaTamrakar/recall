@@ -1,0 +1,58 @@
+{
+ "video": {
+  "id": "video",
+  "title": "Tube synthetic junction (ingest proof)",
+  "duration_s": 80.0,
+  "fps": 30.0,
+  "width": 1280,
+  "height": 720,
+  "source": "/tmp/tube_inspect/tube-main/data/synthetic/video.mp4",
+  "game": ""
+ },
+ "entities": [],
+ "records": [
+  {
+   "t_start": 2.0,
+   "t_end": 6.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Synthetic traffic scene, cars crossing the junction.",
+   "confidence": 0.95,
+   "payload": {
+    "provider": "srt"
+   },
+   "kind": "transcript",
+   "speaker": "Narrator"
+  },
+  {
+   "t_start": 20.0,
+   "t_end": 26.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "A person and a car come close near the crosswalk.",
+   "confidence": 0.95,
+   "payload": {
+    "provider": "srt"
+   },
+   "kind": "transcript",
+   "speaker": "Narrator"
+  },
+  {
+   "t_start": 40.0,
+   "t_end": 46.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "After this we check the near misses, I swear.",
+   "confidence": 0.95,
+   "payload": {
+    "provider": "srt"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  }
+ ],
+ "tracks": []
+}

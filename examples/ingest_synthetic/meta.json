@@ -1,0 +1,18 @@
+{
+ "id": "video",
+ "title": "Tube synthetic junction (ingest proof)",
+ "source": "/tmp/tube_inspect/tube-main/data/synthetic/video.mp4",
+ "status": "ready",
+ "duration_s": 80.0,
+ "fps": 30.0,
+ "width": 1280,
+ "height": 720,
+ "has_audio": false,
+ "thumbnails": 8,
+ "thumb_every_s": 10,
+ "transcript_provider": "srt",
+ "notices": [
+  "source has no audio stream; audio.wav not extracted.",
+  "srt import: 3 transcript segments from proof.srt."
+ ]
+}

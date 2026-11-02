@@ -1,0 +1,11 @@
+1
+00:00:02,000 --> 00:00:06,000
+Narrator: Synthetic traffic scene, cars crossing the junction.
+
+2
+00:00:20,000 --> 00:00:26,000
+Narrator: A person and a car come close near the crosswalk.
+
+3
+00:00:40,000 --> 00:00:46,000
+After this we check the near misses, I swear.

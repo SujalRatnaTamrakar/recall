@@ -1,0 +1,1592 @@
+{
+ "video": {
+  "id": "gta-rp-demo",
+  "title": "GTA RP — The Fleeca Job (fictional demo)",
+  "duration_s": 2400,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "source": "fixtures/gta_rp_demo/stream.mp4 (fictional, scripted)",
+  "game": "GTA V RP"
+ },
+ "entities": [
+  {
+   "name": "Jean Paul",
+   "aliases": [
+    "JP",
+    "Jean"
+   ],
+   "kind": "character"
+  },
+  {
+   "name": "Marty",
+   "aliases": [],
+   "kind": "character"
+  },
+  {
+   "name": "Police Officer",
+   "aliases": [
+    "cop",
+    "officer"
+   ],
+   "kind": "character"
+  }
+ ],
+ "records": [
+  {
+   "t_start": 0,
+   "t_end": 300,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul",
+    "Marty"
+   ],
+   "text": "Jean Paul hangs out at Legion Square and tells Marty the plan to rob Fleeca Bank",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Legion Square",
+   "activity": "hanging_out",
+   "caption": "Jean Paul hangs out at Legion Square and tells Marty the plan to rob Fleeca Bank"
+  },
+  {
+   "t_start": 45,
+   "t_end": 45,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "morning JP!",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "luna_wolf",
+   "emotes": []
+  },
+  {
+   "t_start": 70,
+   "t_end": 78,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Morning everyone. Today is the day, no more small stuff.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 95,
+   "t_end": 95,
+   "modality": "event",
+   "type": "follow",
+   "entities": [],
+   "text": "follow from luna_wolf",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 120,
+   "t_end": 120,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "LETS GOOO",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": []
+  },
+  {
+   "t_start": 130,
+   "t_end": 142,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Okay listen, today we do it clean. We hit the Fleeca on Vinewood, in and out in four minutes, nobody gets hurt.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 150,
+   "t_end": 150,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "a BANK?? Jean Paul is really doing it",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": []
+  },
+  {
+   "t_start": 200,
+   "t_end": 200,
+   "modality": "event",
+   "type": "sub",
+   "entities": [],
+   "text": "new sub from rex_plays (Tier 1)",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 210,
+   "t_end": 218,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Marty",
+    "Jean Paul"
+   ],
+   "text": "I got the thermite and the getaway car. You sure about this, JP?",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Marty"
+  },
+  {
+   "t_start": 230,
+   "t_end": 230,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Marty"
+   ],
+   "text": "Marty is the worst getaway driver btw",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "quietstorm",
+   "emotes": []
+  },
+  {
+   "t_start": 260,
+   "t_end": 266,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "I'm sure. You wait two blocks away, engine running.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 300,
+   "t_end": 480,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul drives to Fleeca Bank and scopes the cameras and the guard",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Vinewood Boulevard",
+   "activity": "driving_to_bank",
+   "caption": "Jean Paul drives to Fleeca Bank and scopes the cameras and the guard"
+  },
+  {
+   "t_start": 360,
+   "t_end": 368,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Driving to the bank now. Everyone stay off the radio unless it's urgent.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 390,
+   "t_end": 390,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "scoping the bank, professional criminal arc",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "novo_",
+   "emotes": []
+  },
+  {
+   "t_start": 430,
+   "t_end": 438,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "That's it on the left. Fleeca Bank. Cameras on the corner, one guard.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 470,
+   "t_end": 470,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "my heart is racing and he is not even inside yet",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "carla_gg",
+   "emotes": []
+  },
+  {
+   "t_start": 480,
+   "t_end": 840,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul robs Fleeca Bank: thermite on the vault door and the cash trays loaded into bags",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Fleeca Bank",
+   "activity": "bank_robbery",
+   "caption": "Jean Paul robs Fleeca Bank: thermite on the vault door and the cash trays loaded into bags"
+  },
+  {
+   "t_start": 500,
+   "t_end": 506,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "We're in. Thermite on the vault door, move, move!",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 510,
+   "t_end": 510,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "THERMITE OUT, its happening!!",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": []
+  },
+  {
+   "t_start": 560,
+   "t_end": 568,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Tellers stay calm, this is a bank robbery, nobody be a hero.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 570,
+   "t_end": 570,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "JP robbing the bank in broad daylight lol",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "luna_wolf",
+   "emotes": []
+  },
+  {
+   "t_start": 640,
+   "t_end": 648,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Vault's open. Grab the cash trays, leave the dye packs.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 650,
+   "t_end": 650,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "grab the cash trays!!",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": []
+  },
+  {
+   "t_start": 700,
+   "t_end": 700,
+   "modality": "event",
+   "type": "follow",
+   "entities": [],
+   "text": "follow from quietstorm",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 700,
+   "t_end": 700,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "vault is OPEN lets gooo",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "jules_",
+   "emotes": []
+  },
+  {
+   "t_start": 760,
+   "t_end": 766,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Two minutes. Bags are loaded, let's go, let's go.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 770,
+   "t_end": 770,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "bags loaded, RUN",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "bigdonor",
+   "emotes": []
+  },
+  {
+   "t_start": 830,
+   "t_end": 830,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "cops are coming i can hear sirens",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "pixelpedro",
+   "emotes": []
+  },
+  {
+   "t_start": 840,
+   "t_end": 840,
+   "modality": "game",
+   "type": "wanted_level",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Wanted level rises to 1 star as Jean Paul leaves the bank",
+   "confidence": 0.95,
+   "payload": {
+    "wanted_level": 1
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 840,
+   "t_end": 900,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul escapes from the bank through the back alley to the getaway car",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Getaway Alley",
+   "activity": "escape",
+   "caption": "Jean Paul escapes from the bank through the back alley to the getaway car"
+  },
+  {
+   "t_start": 842,
+   "t_end": 842,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "GO GO GO",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 847,
+   "t_end": 847,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "HE'S OUT!!",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 850,
+   "t_end": 856,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "We're out! Go go go, take the alley behind the bank!",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 852,
+   "t_end": 852,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "THE ESCAPE",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "luna_wolf",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 857,
+   "t_end": 857,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "CLIP IT",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "jules_",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 862,
+   "t_end": 862,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "ALLEY ALLEY ALLEY",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "carla_gg",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 867,
+   "t_end": 867,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "getaway car NOW",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "novo_",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 870,
+   "t_end": 870,
+   "modality": "event",
+   "type": "clip_created",
+   "entities": [],
+   "text": "clip created by a viewer: 'the bank escape'",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 872,
+   "t_end": 872,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "JP DID IT",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "bigdonor",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 877,
+   "t_end": 877,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "sirens everywhere",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "pixelpedro",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 882,
+   "t_end": 882,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "that was clean??",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "quietstorm",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 887,
+   "t_end": 887,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "bank robbed, Jean Paul is gone",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 900,
+   "t_end": 1200,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Police chase: three police units pursue Jean Paul and the wanted level rises to 4 stars",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Los Santos Freeway",
+   "activity": "police_chase",
+   "caption": "Police chase: three police units pursue Jean Paul and the wanted level rises to 4 stars"
+  },
+  {
+   "t_start": 905,
+   "t_end": 905,
+   "modality": "game",
+   "type": "wanted_level",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Wanted level rises to 3 stars as more units join the chase",
+   "confidence": 0.95,
+   "payload": {
+    "wanted_level": 3
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 920,
+   "t_end": 930,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Cops are behind us, that's three units. This is a full police chase now.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 930,
+   "t_end": 930,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "3 units on him, this chase is crazy",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": []
+  },
+  {
+   "t_start": 950,
+   "t_end": 950,
+   "modality": "event",
+   "type": "sub",
+   "entities": [],
+   "text": "resub from mika_ttv (6 months)",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 960,
+   "t_end": 960,
+   "modality": "game",
+   "type": "money",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Money secured from Fleeca Bank: $84,000 in the bags",
+   "confidence": 0.95,
+   "payload": {
+    "money": 84000
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 990,
+   "t_end": 990,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "4 STARS",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": []
+  },
+  {
+   "t_start": 1000,
+   "t_end": 1000,
+   "modality": "game",
+   "type": "wanted_level",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Wanted level rises to 4 stars during the police chase",
+   "confidence": 0.95,
+   "payload": {
+    "wanted_level": 4
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 1020,
+   "t_end": 1028,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Don't shoot, just drive. Lose them in the canals.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 1050,
+   "t_end": 1050,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "canals strat, trust",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "jules_",
+   "emotes": []
+  },
+  {
+   "t_start": 1130,
+   "t_end": 1138,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "One unit left... he's pitting me, hold on!",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 1140,
+   "t_end": 1140,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "THE PIT, he saved it!!",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "carla_gg",
+   "emotes": []
+  },
+  {
+   "t_start": 1200,
+   "t_end": 1380,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul stashes the getaway car at the canals and lays low as the wanted level drops",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Vespucci Canals",
+   "activity": "stashing_car",
+   "caption": "Jean Paul stashes the getaway car at the canals and lays low as the wanted level drops"
+  },
+  {
+   "t_start": 1204,
+   "t_end": 1204,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "LOST THEM",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "luna_wolf",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1209,
+   "t_end": 1209,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "CHASE OVER",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1210,
+   "t_end": 1210,
+   "modality": "game",
+   "type": "wanted_level",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Wanted level drops to 2 stars after the chase ends",
+   "confidence": 0.95,
+   "payload": {
+    "wanted_level": 2
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 1210,
+   "t_end": 1220,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "We lost them. Wanted level is dropping. Ditch the car at the canals.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 1214,
+   "t_end": 1214,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul actually escaped the cops",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1219,
+   "t_end": 1219,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "W chase",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "jules_",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1224,
+   "t_end": 1224,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "hype train incoming",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "bigdonor",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1229,
+   "t_end": 1229,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "canals OP",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "carla_gg",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1234,
+   "t_end": 1234,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "stash the car stash the car",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "novo_",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1239,
+   "t_end": 1239,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "GG JP",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "pixelpedro",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1244,
+   "t_end": 1244,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "wanted level dropping",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "quietstorm",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1249,
+   "t_end": 1249,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "best chase of the week",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1250,
+   "t_end": 1250,
+   "modality": "event",
+   "type": "hype_train",
+   "entities": [],
+   "text": "hype train started after the chase",
+   "confidence": 1.0,
+   "payload": {
+    "level": 1
+   },
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 1254,
+   "t_end": 1254,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "PogChamp",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": [
+    "PogChamp"
+   ]
+  },
+  {
+   "t_start": 1310,
+   "t_end": 1310,
+   "modality": "event",
+   "type": "sub",
+   "entities": [],
+   "text": "gifted sub from bigdonor to chat",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 1330,
+   "t_end": 1338,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Car's stashed. We lay low here for a bit.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 1355,
+   "t_end": 1355,
+   "modality": "event",
+   "type": "hype_train",
+   "entities": [],
+   "text": "hype train reached level 3",
+   "confidence": 1.0,
+   "payload": {
+    "level": 3
+   },
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 1380,
+   "t_end": 1620,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul",
+    "Marty"
+   ],
+   "text": "Jean Paul meets Marty at the apartments and hands over Marty's split of the money",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Alta Apartments",
+   "activity": "meeting_marty",
+   "caption": "Jean Paul meets Marty at the apartments and hands over Marty's split of the money"
+  },
+  {
+   "t_start": 1390,
+   "t_end": 1390,
+   "modality": "game",
+   "type": "wanted_level",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Wanted level cleared: no stars",
+   "confidence": 0.95,
+   "payload": {
+    "wanted_level": 0
+   },
+   "kind": "game_event"
+  },
+  {
+   "t_start": 1420,
+   "t_end": 1420,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Marty"
+   ],
+   "text": "Marty appearance!!",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "novo_",
+   "emotes": []
+  },
+  {
+   "t_start": 1450,
+   "t_end": 1458,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Marty",
+    "Jean Paul"
+   ],
+   "text": "You actually did it. I heard the sirens from the apartments.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Marty"
+  },
+  {
+   "t_start": 1470,
+   "t_end": 1470,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Marty"
+   ],
+   "text": "Marty heard the sirens from the apartments lol",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "luna_wolf",
+   "emotes": []
+  },
+  {
+   "t_start": 1500,
+   "t_end": 1500,
+   "modality": "event",
+   "type": "follow",
+   "entities": [],
+   "text": "follow from novo_",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 1520,
+   "t_end": 1528,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul",
+    "Marty"
+   ],
+   "text": "Split is in your glove box, Marty. Don't spend it loud.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 1550,
+   "t_end": 1550,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Marty"
+   ],
+   "text": "dont spend it loud - Marty will spend it loud",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "jules_",
+   "emotes": []
+  },
+  {
+   "t_start": 1620,
+   "t_end": 1800,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul is pulled over by police and talks his way out with a hospital story, leaving with just a warning",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Del Perro",
+   "activity": "traffic_stop",
+   "caption": "Jean Paul is pulled over by police and talks his way out with a hospital story, leaving with just a warning"
+  },
+  {
+   "t_start": 1650,
+   "t_end": 1650,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "oh no, pulled over",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "carla_gg",
+   "emotes": []
+  },
+  {
+   "t_start": 1680,
+   "t_end": 1688,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Sir, license and registration. You were doing sixty in a thirty.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Police Officer"
+  },
+  {
+   "t_start": 1700,
+   "t_end": 1700,
+   "modality": "event",
+   "type": "sub",
+   "entities": [],
+   "text": "new sub from carla_gg (Tier 1)",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 1705,
+   "t_end": 1705,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "the hospital story, classic JP",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": []
+  },
+  {
+   "t_start": 1730,
+   "t_end": 1740,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Officer, my cousin is in hospital, I was rushing to see him. I'm so sorry.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 1780,
+   "t_end": 1788,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Slow it down. This is your lucky day, it's just a warning.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Police Officer"
+  },
+  {
+   "t_start": 1795,
+   "t_end": 1795,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "HE TALKED HIS WAY OUT",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": []
+  },
+  {
+   "t_start": 1800,
+   "t_end": 2100,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul lays low at the hideout garage, counts the money and fixes the spare car",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Hideout Garage",
+   "activity": "laying_low",
+   "caption": "Jean Paul lays low at the hideout garage, counts the money and fixes the spare car"
+  },
+  {
+   "t_start": 1900,
+   "t_end": 1908,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "He bought it! Talked my way out of that stop, chat.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 1915,
+   "t_end": 1915,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "that officer bought the whole story",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "bigdonor",
+   "emotes": []
+  },
+  {
+   "t_start": 1980,
+   "t_end": 1980,
+   "modality": "event",
+   "type": "ad_break",
+   "entities": [],
+   "text": "ad break (60s)",
+   "confidence": 1.0,
+   "payload": {
+    "duration_s": 60
+   },
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 2050,
+   "t_end": 2050,
+   "modality": "event",
+   "type": "sub",
+   "entities": [],
+   "text": "resub from jules_ (3 months)",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 2050,
+   "t_end": 2060,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "We count the money, fix the spare car, and keep our heads down tonight.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 2070,
+   "t_end": 2070,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "counting money arc, quiet night",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "quietstorm",
+   "emotes": []
+  },
+  {
+   "t_start": 2100,
+   "t_end": 2400,
+   "modality": "video",
+   "type": "scene",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Jean Paul plans the next move at the hideout and says Paleto Bay bank is next after laying low",
+   "confidence": 0.9,
+   "payload": {},
+   "kind": "scene",
+   "location": "Hideout Garage",
+   "activity": "planning_next",
+   "caption": "Jean Paul plans the next move at the hideout and says Paleto Bay bank is next after laying low"
+  },
+  {
+   "t_start": 2210,
+   "t_end": 2210,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "whats next for JP tho?",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "novo_",
+   "emotes": []
+  },
+  {
+   "t_start": 2250,
+   "t_end": 2262,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "We lay low tonight, let the heat die. After this we hit Paleto, I swear - Paleto Bay bank is next.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 2265,
+   "t_end": 2265,
+   "modality": "chat",
+   "type": "message",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "PALETO?? Jean Paul said Paleto is next!!",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "luna_wolf",
+   "emotes": []
+  },
+  {
+   "t_start": 2280,
+   "t_end": 2280,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "Paleto Bay bank next, calling it now",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "rex_plays",
+   "emotes": []
+  },
+  {
+   "t_start": 2300,
+   "t_end": 2300,
+   "modality": "event",
+   "type": "sub",
+   "entities": [],
+   "text": "new sub from pixelpedro (Tier 2)",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "stream_event"
+  },
+  {
+   "t_start": 2330,
+   "t_end": 2340,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [
+    "Jean Paul"
+   ],
+   "text": "Paleto crew needs a driver and a second thermite. Start asking around, quietly.",
+   "confidence": 0.92,
+   "payload": {},
+   "kind": "transcript",
+   "speaker": "Jean Paul"
+  },
+  {
+   "t_start": 2350,
+   "t_end": 2350,
+   "modality": "chat",
+   "type": "message",
+   "entities": [],
+   "text": "second thermite for Paleto, this arc is cinema",
+   "confidence": 1.0,
+   "payload": {},
+   "kind": "chat",
+   "user": "mika_ttv",
+   "emotes": []
+  }
+ ],
+ "tracks": [
+  {
+   "track_id": 1,
+   "label": "person",
+   "first_t": 0,
+   "last_t": 2400,
+   "zones_visited": [
+    "Legion Square",
+    "Vinewood Boulevard",
+    "Fleeca Bank",
+    "Getaway Alley",
+    "Los Santos Freeway",
+    "Vespucci Canals",
+    "Alta Apartments",
+    "Del Perro",
+    "Hideout Garage"
+   ],
+   "entity": "Jean Paul",
+   "payload": {}
+  },
+  {
+   "track_id": 2,
+   "label": "person",
+   "first_t": 0,
+   "last_t": 1620,
+   "zones_visited": [
+    "Legion Square",
+    "Alta Apartments"
+   ],
+   "entity": "Marty",
+   "payload": {}
+  },
+  {
+   "track_id": 3,
+   "label": "police_car",
+   "first_t": 850,
+   "last_t": 1800,
+   "zones_visited": [
+    "Fleeca Bank",
+    "Los Santos Freeway",
+    "Vespucci Canals",
+    "Del Perro"
+   ],
+   "entity": null,
+   "payload": {}
+  },
+  {
+   "track_id": 4,
+   "label": "car",
+   "first_t": 300,
+   "last_t": 1380,
+   "zones_visited": [
+    "Vinewood Boulevard",
+    "Fleeca Bank",
+    "Getaway Alley",
+    "Los Santos Freeway",
+    "Vespucci Canals"
+   ],
+   "entity": null,
+   "payload": {
+    "role": "getaway car"
+   }
+  }
+ ]
+}

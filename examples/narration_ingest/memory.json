@@ -1,0 +1,128 @@
+{
+ "video": {
+  "id": "narration",
+  "title": "narration",
+  "duration_s": 63.72,
+  "fps": 30.0,
+  "width": 640,
+  "height": 360,
+  "source": "examples/narration/narration.mp4",
+  "game": ""
+ },
+ "entities": [],
+ "records": [
+  {
+   "t_start": 0.0,
+   "t_end": 7.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "All right, chat tonight we are off the flea cabin con the boulevard, Marty is bringing the thermite.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 8.0,
+   "t_end": 16.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "We are inside the bank now, the thermite is on the vault door, grab the cash trace.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 16.0,
+   "t_end": 24.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Cops are outside, we need to go out the back alley, the getaway car is waiting.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 25.0,
+   "t_end": 31.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "That is free Billy's units behind us, the chase is on, told on.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 32.0,
+   "t_end": 38.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "We lost them near the canels, stash the car here and lay below.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 39.0,
+   "t_end": 45.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Marty, there is your split from the bank job, counted later.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 46.0,
+   "t_end": 53.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "Officer, I was just driving my friend to the hospital, I swear.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  },
+  {
+   "t_start": 54.0,
+   "t_end": 62.0,
+   "modality": "transcript",
+   "type": "utterance",
+   "entities": [],
+   "text": "We lay low tonight, let the heat die, after this we hit Palio, I swear, Palio Baybank is next.",
+   "confidence": 0.8,
+   "payload": {
+    "provider": "faster-whisper"
+   },
+   "kind": "transcript",
+   "speaker": "unknown"
+  }
+ ],
+ "tracks": []
+}

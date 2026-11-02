@@ -1,0 +1,8 @@
+# Optional transcription provider (Phase 1b, verified 2026-10-26 on CPU)
+# Version pins matter: faster-whisper 1.2.1 calls av.open(metadata_errors=...),
+# which PyAV removed in newer releases — av 19 fails with
+# "open() got an unexpected keyword argument 'metadata_errors'".
+# av==14.2.0 accepts it. huggingface_hub pinned for snapshot_download compat.
+faster-whisper==1.2.1
+av==14.2.0
+huggingface_hub==0.26.5
